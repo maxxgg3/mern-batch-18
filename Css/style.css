@@ -1,8 +1,9 @@
 /* external css */
-p {
-    font-size: 50px;
-}
+
+
+
 .heading-2 {
+    font-family: "Roboto", sans-serif;
     font-size: 80px;
     color: brown;
 }
@@ -10,4 +11,24 @@ p {
 #para {
 
     color: red;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+
 }
+#para-2{
+
+ color: rgb(119, 0, 255);
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    text-decoration: overline;
+    text-transform: uppercase;
+    line-height: 30px;
+    
+ 
+
+}
+
