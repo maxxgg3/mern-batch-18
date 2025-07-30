@@ -42,8 +42,9 @@ border-style: dotted;
 border-color: yellow; */
 border: 3px dashed red;
 border-radius: 20px;
-border-top-left-radius: 30px;
-border-bottom: ;
+/* border-top-left-radius: 30px; */
+ 
 margin: 20px;
+
 
 }
