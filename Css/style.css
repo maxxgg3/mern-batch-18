@@ -24,8 +24,8 @@
     font-weight: bold;
     font-style: italic;
     text-align: right;
-    text-decoration: overline;
-    text-transform: uppercase;
+    text-decoration:underline dotted;
+    text-transform:uppercase;
     line-height: 30px;
     
  

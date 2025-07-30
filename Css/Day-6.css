@@ -1,0 +1,49 @@
+p {
+
+    /* color: blue; */
+
+    color: rgb(35, 45, 55);
+
+    /* color:#f542e6 */
+
+
+    color:hsl(25, 35, 40);
+}
+
+/* Background model */
+
+.container {
+
+background-color: tomato;
+height: 200px;
+background-image: url("../Assets/109457451.jpg");
+background-size:contain;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black
+/* opacity: 0.8; */
+
+
+}
+
+/* BOX MODEL  */
+
+.container-2 {
+
+width: 200px;
+height: 200px;
+background-color: black;
+/* padding: 20px;
+padding-left: 10px;
+padding-right: 30px; */
+padding: 20px 30px 40px; /*top right bootm left*/
+/* border-width: 5px;
+border-style: dotted;
+border-color: yellow; */
+border: 3px dashed red;
+border-radius: 20px;
+border-top-left-radius: 30px;
+border-bottom: ;
+margin: 20px;
+
+}
